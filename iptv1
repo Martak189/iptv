@@ -1,0 +1,131 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- LCN HD",CAF- LCN HD
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- MAX",CAF- MAX
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- SERIS",CAF- SERIS
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- ELLE  FICTION",CAF- ELLE  FICTION
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- Z TELE",CAF- Z TELE
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- NOOVO V TELE HD",CAF- NOOVO V TELE HD
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- ADDIK TV",CAF- ADDIK TV
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- CANAL D 4K",CAF- CANAL D 4K
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF - TVA MONTREAL",CAF - TVA MONTREAL
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- TVA GATINEAU 4K",CAF- TVA GATINEAU 4K
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- ICI TELEVISION 4K",CAF- ICI TELEVISION 4K
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- ICI TELE 4K",CAF- ICI TELE 4K
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- ICI MONTREAL",CAF- ICI MONTREAL
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- SUPER ECRAN 1",CAF- SUPER ECRAN 1
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- SUPER ECRAN 2",CAF- SUPER ECRAN 2
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- SUPER ECRAN 3",CAF- SUPER ECRAN 3
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- SUPER ECRAN 4",CAF- SUPER ECRAN 4
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF - PRISE",CAF - PRISE
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- VIE",CAF- VIE
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- ZESTE",CAF- ZESTE
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- CASA",CAF- CASA
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- YOOPA",CAF- YOOPA
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- VRAK TV",CAF- VRAK TV
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- TVA SPORTS",CAF- TVA SPORTS
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- TV5 QUEBEC",CAF- TV5 QUEBEC
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- TELE TOON FRENCH",CAF- TELE TOON FRENCH
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- TELE QUEBEC 4K",CAF- TELE QUEBEC 4K
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- RDS INFO",CAF- RDS INFO
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- RDS 2",CAF- RDS 2
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- RDS",CAF- RDS
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- RDI 4K",CAF- RDI 4K
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- MOI CIE",CAF- MOI CIE
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- METEO",CAF- METEO
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- HISTORIO",CAF- HISTORIO
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- DISNEY FRENCH",CAF- DISNEY FRENCH
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- CINEPOP",CAF- CINEPOP
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF-UNIS TV",CAF-UNIS TV
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- CANAL SAVOIR",CAF- CANAL SAVOIR
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF- ARTV",CAF- ARTV
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF - FRISSON",CAF - FRISSON
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF - ASSEMBLÉE NATIONALE QUÉBEC",CAF - ASSEMBLÉE NATIONALE QUÉBEC
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF - CPAC FRENCH",CAF - CPAC FRENCH
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
+#EXTINF:-1 tvg-chno="0" tvg-logo="http://10.0.0.33/images/default_picon.png" tvg-id="1:0:1:0:0:0:0:0:0:0:" tvg-name="CAF - EVASION",CAF - EVASION
+#EXTVLCOPT:program=0
+http://10.0.0.33:8001/1:0:1:0:0:0:0:0:0:0:
